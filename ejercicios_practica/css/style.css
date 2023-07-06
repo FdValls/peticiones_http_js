@@ -19,11 +19,9 @@ button {
     width: 35rem;
     display: flex;
     flex-direction: inherit;
-    margin: 100px;
+    margin: 15px;
     border-radius: 30px;
-    /* Establece el radio de las esquinas */
     border: 3px solid black;
-    /* Establece el borde de color negro */
     align-items: center;
 }
 
